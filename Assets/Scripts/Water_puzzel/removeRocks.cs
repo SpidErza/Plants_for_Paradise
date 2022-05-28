@@ -17,6 +17,7 @@ public class removeRocks : MonoBehaviour
                     {
                         Destroy(destroy);
                     }
+                    FindObjectOfType<Waterrad>().rocksRemoved = true;
                 }
             }
         }
