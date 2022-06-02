@@ -5,7 +5,8 @@ using UnityEngine;
 public class Waterrad : MonoBehaviour
 {
     public bool rocksRemoved;
-    private bool _wheelRepaired = true;
+    public bool ropeGot;
+    private bool _wheelRepaired;
     public Animator anim;
 
     // Update is called once per frame
@@ -22,5 +23,21 @@ public class Waterrad : MonoBehaviour
                 print("anim is null!");
             }
         }
+    }
+
+    void OnTriggerStay(Collider col)
+    {
+        if (col.gameObject.tag == "player")
+        {
+            if (ropeGot && !rocksRemoved)
+            {
+                this.gameObject.transform.position.Set(2.5f,1f,8f);
+                _wheelRepaired = true;
+            }
+        }
+    }
+    void OnTriggerEnter()
+    {
+        Debug.Log("entered");
     }
 }
