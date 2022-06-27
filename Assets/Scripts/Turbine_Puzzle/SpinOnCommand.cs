@@ -10,7 +10,7 @@ public class SpinOnCommand : MonoBehaviour
     {
         if (spin)
         {
-            this.gameObject.transform.Rotate(new Vector3(0,1,0));
+            this.gameObject.transform.Rotate(new Vector3(0,270 * Time.deltaTime,0));
         }
     }
 }

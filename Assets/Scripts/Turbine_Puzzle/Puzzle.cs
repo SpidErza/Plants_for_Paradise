@@ -105,6 +105,7 @@ public class Puzzle : MonoBehaviour
 
     private void Completed()
     {
+        FindObjectOfType<openPanel>().WindComplete = true;
         Destroy(this);
     }
 }
