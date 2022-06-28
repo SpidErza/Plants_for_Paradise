@@ -1,0 +1,277 @@
+[33mcommit 3dc2aa0ec7985c66ba24a9061fca7e43e6895912[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: RIV-RS <92149725+RIV-RS@users.noreply.github.com>
+Date:   Mon Jun 27 14:23:15 2022 +0200
+
+    Windmolens
+
+[33mcommit 41ef1f7412f851fa288131b62b52bdfc7214fd3c[m
+Merge: aac4484 ed190e1
+Author: RIV-RS <92149725+RIV-RS@users.noreply.github.com>
+Date:   Mon Jun 27 13:10:26 2022 +0200
+
+    Merge branch 'main' of https://github.com/SpidErza/Plants_for_Paradise
+
+[33mcommit aac44847e9c09961a538c6b4f63556d84294fc70[m
+Author: RIV-RS <92149725+RIV-RS@users.noreply.github.com>
+Date:   Mon Jun 27 13:08:07 2022 +0200
+
+    Shaders (bomen + water) en japanse maple model
+
+[33mcommit ed190e1d17f52e37fd3091afc0661e0cc33936e4[m
+Author: Pepyn-Kluin <84376844+Pepyn-Kluin@users.noreply.github.com>
+Date:   Mon Jun 27 12:09:10 2022 +0200
+
+    Stoel Toegevoegd
+
+[33mcommit 9fe1da8710ce1d4b9d33ce301145c5c3f36d9391[m
+Author: Dragonian707 <jarnodijk2001@hotmail.com>
+Date:   Mon Jun 27 10:03:47 2022 +0200
+
+    Wind puzzel verbeterd
+
+[33mcommit 27f3a92b42f4f4ed91a16f757f80259749bcce3b[m
+Author: Dragonian707 <jarnodijk2001@hotmail.com>
+Date:   Fri Jun 24 14:07:33 2022 +0200
+
+    apparte scenes voor puzzels + wind puzzel
+
+[33mcommit b3c68ffe8ac0ebd7b4d1b7743abad8ba1cfc9357[m
+Author: Pepyn-Kluin <84376844+Pepyn-Kluin@users.noreply.github.com>
+Date:   Fri Jun 24 13:32:56 2022 +0200
+
+    Spiegel toegevoegd
+
+[33mcommit a9c4a022df2f3733c8c41e16de3b62d1262ac650[m
+Merge: 4e5daf1 b5e104b
+Author: Pepyn-Kluin <84376844+Pepyn-Kluin@users.noreply.github.com>
+Date:   Thu Jun 23 13:50:17 2022 +0200
+
+    Merge branch 'main' of https://github.com/SpidErza/Plants_for_Paradise
+
+[33mcommit 4e5daf187f8175b0c2a386b322e0d43278337e25[m
+Author: Pepyn-Kluin <84376844+Pepyn-Kluin@users.noreply.github.com>
+Date:   Thu Jun 23 13:50:14 2022 +0200
+
+    Zonnebloem toegevoegd
+
+[33mcommit b5e104bcf0b815da3a3e6ff63291f1ee430b2b45[m
+Author: boomistaken <102023579+boomistaken@users.noreply.github.com>
+Date:   Thu Jun 23 13:27:00 2022 +0200
+
+    Update EditorUserSettings.asset
+
+[33mcommit 4c8917358f2bd8753ee914efe89b0921535b7ff4[m
+Author: Dragonian707 <jarnodijk2001@hotmail.com>
+Date:   Thu Jun 23 13:19:09 2022 +0200
+
+    Skyscraper toegevoegd
+
+[33mcommit 95522ea0e24847e47d3ee160405c41e248a54688[m
+Author: Pepyn-Kluin <84376844+Pepyn-Kluin@users.noreply.github.com>
+Date:   Wed Jun 22 11:30:58 2022 +0200
+
+    Texture water resevoir updated
+
+[33mcommit fab56f22f70c3683ddc8ed95d4e5ca90b4321b2a[m
+Author: Pepyn-Kluin <84376844+Pepyn-Kluin@users.noreply.github.com>
+Date:   Wed Jun 22 11:24:54 2022 +0200
+
+    WaterResvoir toegevoegd
+
+[33mcommit de6c6c6b189c78f1194d0ec1934827971829d888[m
+Author: Dragonian707 <jarnodijk2001@hotmail.com>
+Date:   Tue Jun 21 14:56:57 2022 +0200
+
+    Scene uitgebreidt en muziek toegevoegd
+
+[33mcommit a979df40d746111c1c62de4120a97c223e36588d[m
+Merge: 2190510 3eee121
+Author: HexaBlitz <97612761+SpidErza@users.noreply.github.com>
+Date:   Mon Jun 20 11:49:34 2022 +0200
+
+    Merge branch 'main' of https://github.com/SpidErza/Plants_for_Paradise
+
+[33mcommit 3eee1217d10a377f5972a8366fedda3b4779dbb2[m
+Author: Pepyn-Kluin <84376844+Pepyn-Kluin@users.noreply.github.com>
+Date:   Fri Jun 17 13:47:32 2022 +0200
+
+    Vogel  in de pepyn folder gezet
+    
+    bird
+
+[33mcommit 21905106fabe27cba38f4ba3eeb0ef9f000d8f6d[m
+Merge: cab31e9 4405633
+Author: HexaBlitz <97612761+SpidErza@users.noreply.github.com>
+Date:   Mon Jun 13 13:11:38 2022 +0200
+
+    Merge branch 'main' of https://github.com/SpidErza/Plants_for_Paradise
+
+[33mcommit cab31e9347453fb76fc292517ba1c32b7197ea9d[m
+Author: HexaBlitz <97612761+SpidErza@users.noreply.github.com>
+Date:   Mon Jun 13 13:10:40 2022 +0200
+
+    Update EditorUserSettings.asset
+
+[33mcommit 4405633dd3cee4b29d4de48a3a9d18b347ab19a5[m
+Author: Dragonian707 <jarnodijk2001@hotmail.com>
+Date:   Mon Jun 13 10:09:29 2022 +0200
+
+    Revert "scene gedeeltelijk aanpassen"
+    
+    This reverts commit 94899c7b419e4d0c47497488c7be492c2323a5ac.
+
+[33mcommit 94899c7b419e4d0c47497488c7be492c2323a5ac[m
+Author: Dragonian707 <jarnodijk2001@hotmail.com>
+Date:   Mon Jun 13 10:08:31 2022 +0200
+
+    scene gedeeltelijk aanpassen
+
+[33mcommit 1fb9622d32e8d40046a009632429b8f028cd935c[m
+Author: boomistaken <102023579+boomistaken@users.noreply.github.com>
+Date:   Thu Jun 9 15:28:22 2022 +0200
+
+    Own Scene for testing
+
+[33mcommit 3ea47f78149dc81d652d6224fec560c1f293f60b[m
+Author: LauraML95 <105287974+LauraML95@users.noreply.github.com>
+Date:   Thu Jun 9 15:17:50 2022 +0200
+
+    Wereld edit
+
+[33mcommit 7593b88362d053b40f162e30efb9c0a41fd27fa6[m
+Author: LauraML95 <105287974+LauraML95@users.noreply.github.com>
+Date:   Wed Jun 8 11:31:25 2022 +0200
+
+    Errors opgelost
+
+[33mcommit 77cf637aac5f4d0b38052c1f6d1aa3fe42bc8f30[m
+Merge: d52e9d5 b16455e
+Author: HexaBlitz <97612761+SpidErza@users.noreply.github.com>
+Date:   Wed Jun 8 09:15:46 2022 +0200
+
+    Merge branch 'main' of https://github.com/SpidErza/Plants_for_Paradise
+
+[33mcommit b16455e202768f6a03ea71ae4d0546958312996e[m
+Author: LauraML95 <105287974+LauraML95@users.noreply.github.com>
+Date:   Fri Jun 3 14:17:57 2022 +0200
+
+    Basis eiland
+
+[33mcommit d52e9d512a149a9ab738b7f0ee90eeeaa4b3367d[m
+Merge: dd649c2 ac4fcda
+Author: HexaBlitz <97612761+SpidErza@users.noreply.github.com>
+Date:   Thu Jun 2 13:02:12 2022 +0200
+
+    Merge branch 'main' of https://github.com/SpidErza/Plants_for_Paradise
+
+[33mcommit dd649c24872b96649e91c95df0512d6cac2a8b70[m
+Author: HexaBlitz <97612761+SpidErza@users.noreply.github.com>
+Date:   Thu Jun 2 13:00:53 2022 +0200
+
+    Update EditorUserSettings.asset
+
+[33mcommit ac4fcdae96c1e46b590532cd1b9e8a8c1455a476[m
+Author: boomistaken <102023579+boomistaken@users.noreply.github.com>
+Date:   Thu Jun 2 09:34:30 2022 +0200
+
+    Player Movement
+
+[33mcommit 00f98942d3945e0d5f6bbbf6939b762be3e56845[m
+Merge: 69d5bf9 a4e55c7
+Author: Dragonian707 <jarnodijk2001@hotmail.com>
+Date:   Thu Jun 2 08:54:19 2022 +0200
+
+    Merge branch 'main' of https://github.com/SpidErza/Plants_for_Paradise
+
+[33mcommit 69d5bf9b5dc81c69e70de00d13a719de190c618c[m
+Author: Dragonian707 <jarnodijk2001@hotmail.com>
+Date:   Thu Jun 2 08:50:19 2022 +0200
+
+    mijn scene up to date maken
+
+[33mcommit a4e55c7f189df188c197cc8ea426eb56525363cd[m
+Author: boomistaken <102023579+boomistaken@users.noreply.github.com>
+Date:   Thu Jun 2 05:10:46 2022 +0200
+
+    Player Movement
+
+[33mcommit 4347ee7876189c1781a1d7309839dff6f4b6c9a0[m
+Author: boomistaken <102023579+boomistaken@users.noreply.github.com>
+Date:   Thu Jun 2 04:29:18 2022 +0200
+
+    Basic Player Movement
+
+[33mcommit 0005874c229aa5e9492ab5a238bc1ad00d24b024[m
+Author: boomistaken <102023579+boomistaken@users.noreply.github.com>
+Date:   Thu Jun 2 03:34:38 2022 +0200
+
+    Name change
+
+[33mcommit 181eec24927342885a1144aee5f799f827cc0d21[m
+Author: boomistaken <102023579+boomistaken@users.noreply.github.com>
+Date:   Thu Jun 2 03:20:38 2022 +0200
+
+    Update MainMenu.unity
+
+[33mcommit bc9410898d6c4362207dc6b01f7d8144c765fc00[m
+Author: boomistaken <102023579+boomistaken@users.noreply.github.com>
+Date:   Wed Jun 1 11:12:26 2022 +0200
+
+    Credits
+
+[33mcommit 12d69e2a73afdbf7a6b4acf1731d163cc3b487f6[m
+Author: LauraML95 <105287974+LauraML95@users.noreply.github.com>
+Date:   Mon May 30 13:22:04 2022 +0200
+
+    Eiland_01
+
+[33mcommit 4fd4083f4ae755495b5a13f0a934b9e03720dd4e[m
+Author: Dragonian707 <jarnodijk2001@hotmail.com>
+Date:   Sat May 28 15:23:23 2022 +0200
+
+    Expanded on my scene
+
+[33mcommit fdb196cf463f5bcc1c571ba74fb3b5e4c5242fa3[m
+Merge: e86dbb0 3a87c56
+Author: HexaBlitz <97612761+SpidErza@users.noreply.github.com>
+Date:   Wed May 25 11:32:16 2022 +0200
+
+    Merge branch 'main' of https://github.com/SpidErza/Plants_for_Paradise
+
+[33mcommit e86dbb0c7c8503a6c0de4931a78e384f3aeb7089[m
+Author: HexaBlitz <97612761+SpidErza@users.noreply.github.com>
+Date:   Wed May 25 11:30:59 2022 +0200
+
+    menu
+
+[33mcommit 3a87c561fff9a3aa3f7c56ba15cc08ca0c2c30a6[m
+Author: Dragonian707 <jarnodijk2001@hotmail.com>
+Date:   Wed May 25 09:44:55 2022 +0200
+
+    Update .gitignore
+
+[33mcommit ea2936d0007a3529ac874d2196b9fcb256a5bad4[m
+Author: Dragonian707 <jarnodijk2001@hotmail.com>
+Date:   Wed May 25 09:42:48 2022 +0200
+
+    Added new scene
+    
+    Added a scene in which I will work and test stuff
+
+[33mcommit 39cc13b6531f5ee84c5512e7bff7949a43a63bb2[m
+Author: HexaBlitz <97612761+SpidErza@users.noreply.github.com>
+Date:   Wed May 25 09:29:00 2022 +0200
+
+    version update
+
+[33mcommit 4539c39e24e3078b6aeb37a62161e6730a7bb6a4[m
+Author: HexaBlitz <97612761+SpidErza@users.noreply.github.com>
+Date:   Tue May 24 10:08:46 2022 +0200
+
+    added unity
+
+[33mcommit 0f20464825acd7dc85aa895956379a5c3ec2800a[m
+Author: HexaBlitz <97612761+SpidErza@users.noreply.github.com>
+Date:   Tue May 24 09:47:01 2022 +0200
+
+    Initial commit
