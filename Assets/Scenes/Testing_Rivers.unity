@@ -676,10 +676,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -1143469564735526731, guid: 0bf38ed3e065f44439c6dc21053c0351, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: cb4588d0dc10b4741b5186d445cbb52e, type: 2}
     - target: {fileID: 919132149155446097, guid: 0bf38ed3e065f44439c6dc21053c0351, type: 3}
       propertyPath: m_Name
       value: market_stand
       objectReference: {fileID: 0}
+    - target: {fileID: 4370951913967234905, guid: 0bf38ed3e065f44439c6dc21053c0351, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 237b8cd2b3d73cd4caff0a5145a52629, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0bf38ed3e065f44439c6dc21053c0351, type: 3}
 --- !u!1 &1593000100
