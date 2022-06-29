@@ -31,7 +31,7 @@ public class Waterrad : MonoBehaviour
         {
             if (ropeGot && !rocksRemoved)
             {
-                this.gameObject.transform.position.Set(2.5f,1f,8f);
+                this.gameObject.transform.position.Set(1.38f,0.31f,6.61f);
                 _wheelRepaired = true;
             }
         }
