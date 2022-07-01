@@ -10,6 +10,8 @@ public class Puzzle : MonoBehaviour
     private int correct;
 
     public List<SpinOnCommand> turbine;
+    public GameObject toChange;
+    public Material mat;
 
     // void Start()
     // {
@@ -106,6 +108,7 @@ public class Puzzle : MonoBehaviour
     private void Completed()
     {
         FindObjectOfType<openPanel>().WindComplete = true;
+        toChange.GetComponent<MeshRenderer>().material = mat;
         Destroy(this);
     }
 }
