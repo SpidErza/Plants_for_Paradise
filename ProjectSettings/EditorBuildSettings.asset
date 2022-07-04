@@ -14,7 +14,4 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Eiland_01_Laura.unity
     guid: 711fcf7f6529b5d4b8eaeb37d023509d
-  - enabled: 1
-    path: Assets/Scenes/JustinVD.unity
-    guid: d393774eedc16cf419074dbdd94261cf
   m_configObjects: {}
