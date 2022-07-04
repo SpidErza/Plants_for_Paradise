@@ -15,11 +15,11 @@ MonoBehaviour:
   active: 1
   m_AdvancedMode: 0
   postExposure:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 0
   contrast:
     m_OverrideState: 1
-    m_Value: 4.5
+    m_Value: 8.3
     min: -100
     max: 100
   colorFilter:
@@ -30,12 +30,12 @@ MonoBehaviour:
     showEyeDropper: 1
   hueShift:
     m_OverrideState: 0
-    m_Value: 0
+    m_Value: -8
     min: -180
     max: 180
   saturation:
     m_OverrideState: 1
-    m_Value: 3.5
+    m_Value: 5.8
     min: -100
     max: 100
 --- !u!114 &11400000
@@ -54,6 +54,7 @@ MonoBehaviour:
   - {fileID: 4681094582335157499}
   - {fileID: -7688807189207700734}
   - {fileID: 2846412592929551359}
+  - {fileID: 5451336904994753196}
 --- !u!114 &2846412592929551359
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -79,12 +80,12 @@ MonoBehaviour:
     m_Value: {x: 0.5, y: 0.5}
   intensity:
     m_OverrideState: 1
-    m_Value: 0.153
+    m_Value: 0.3
     min: 0
     max: 1
   smoothness:
-    m_OverrideState: 0
-    m_Value: 0.2
+    m_OverrideState: 1
+    m_Value: 0.1
     min: 0.01
     max: 1
   rounded:
@@ -106,15 +107,15 @@ MonoBehaviour:
   m_AdvancedMode: 0
   threshold:
     m_OverrideState: 1
-    m_Value: 0.62
+    m_Value: 0.39
     min: 0
   intensity:
     m_OverrideState: 1
-    m_Value: 0.83
+    m_Value: 0.54
     min: 0
   scatter:
     m_OverrideState: 1
-    m_Value: 0.501
+    m_Value: 0.516
     min: 0
     max: 1
   clamp:
@@ -123,7 +124,7 @@ MonoBehaviour:
     min: 0
   tint:
     m_OverrideState: 1
-    m_Value: {r: 1, g: 0.90957046, b: 0.4198113, a: 1}
+    m_Value: {r: 1, g: 0.9420895, b: 0.6273585, a: 1}
     hdr: 0
     showAlpha: 0
     showEyeDropper: 1
@@ -141,4 +142,43 @@ MonoBehaviour:
   dirtIntensity:
     m_OverrideState: 0
     m_Value: 0
+    min: 0
+--- !u!114 &5451336904994753196
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 558a8e2b6826cf840aae193990ba9f2e, type: 3}
+  m_Name: ShadowsMidtonesHighlights
+  m_EditorClassIdentifier: 
+  active: 1
+  m_AdvancedMode: 0
+  shadows:
+    m_OverrideState: 1
+    m_Value: {x: 0.8730664, y: 1, z: 0.99192816, w: 0}
+  midtones:
+    m_OverrideState: 1
+    m_Value: {x: 0.95903826, y: 0.9127034, z: 1, w: 0}
+  highlights:
+    m_OverrideState: 1
+    m_Value: {x: 0.9818283, y: 1, z: 0.9145391, w: 0}
+  shadowsStart:
+    m_OverrideState: 0
+    m_Value: 0
+    min: 0
+  shadowsEnd:
+    m_OverrideState: 0
+    m_Value: 0.3
+    min: 0
+  highlightsStart:
+    m_OverrideState: 0
+    m_Value: 0.55
+    min: 0
+  highlightsEnd:
+    m_OverrideState: 0
+    m_Value: 1
     min: 0
