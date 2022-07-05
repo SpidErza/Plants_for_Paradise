@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class openPanel : MonoBehaviour
 {
     private bool inRange;
-    private bool inPanel;
+    public bool inPanel;
     public GameObject Panel;
     public bool WindComplete;
 
